@@ -37,8 +37,12 @@ Display the TCP/IP output in the console. Logging output in Desktop directory:  
 
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Entered command observing ssh exploit: <br/>
+<img width="1440" alt="Screenshot 2025-03-21 at 2 12 48 PM" src="https://github.com/user-attachments/assets/b2ba9338-9872-4e4d-a7b4-3c29d714cdd0" />
+<img width="1440" alt="Screenshot 2025-03-21 at 2 07 17 PM" src="https://github.com/user-attachments/assets/d887c794-c40d-4392-aa78-15fc5cecee89" />
+<img width="1440" alt="Screenshot 2025-03-21 at 2 13 43 PM" src="https://github.com/user-attachments/assets/ea529d8f-dc75-4074-9434-b678d2232269" />
+
+
 <br />
 <br />
 Confirm your selection:  <br/>
