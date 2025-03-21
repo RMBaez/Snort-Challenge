@@ -12,7 +12,7 @@ Last week, they received multiple attacks and decided to work with you to help t
 <h2>Task</h2>
 
 - <b>Figure out the attack source, service and port</b>
-- <b>Write an IPS rule and run Snort in IPS mode to stop the brute-force attack</b>
+- <b>Write an IPS rule and run Snort in IPS mode to stop the brute-force attack. Once you stop the attack properly, you will have the flag on the desktop. </b>
 
 
 <h2>Languages and Utilities Used</h2>
@@ -45,28 +45,18 @@ Entered command observing ssh exploit: <br/>
 
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Creating Snort rule:  <br/>
+<img width="1440" alt="Screenshot 2025-03-21 at 2 17 18 PM" src="https://github.com/user-attachments/assets/fe28e8c4-c7de-4f9c-bc26-38ddc3610e73" />
+<img width="1440" alt="Screenshot 2025-03-21 at 2 29 01 PM" src="https://github.com/user-attachments/assets/7bb6cdbe-1fa1-4227-a0e3-5884b4c8aade" />
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+<br />
+<br />
+IPS mode and dropping packets:  <br/>
+<img width="1440" alt="Screenshot 2025-03-21 at 2 34 15 PM" src="https://github.com/user-attachments/assets/153c8ed7-2a75-4907-be23-39458fe18c07" />
+
+<br />
+<br />
+Waiting for process to complete (may take some time). Receiving acknowledgment of task completion:  <br/>
+<img width="1440" alt="Screenshot 2025-03-21 at 2 34 48 PM" src="https://github.com/user-attachments/assets/81531b5d-e874-4c3a-91d3-3814f669ac29" />
+
