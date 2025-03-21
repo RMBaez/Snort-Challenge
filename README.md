@@ -10,8 +10,9 @@ The super-secret of this recipe is hidden in a digital safe. Attackers are after
 Last week, they received multiple attacks and decided to work with you to help them improve their security level and protect their recipe secrets. Hours after starting shift, a brute-force attack is underway.
 
 <h2>Task</h2>
-- <b> Figure out the attack source, service and port</b>
-- <b> Write an IPS rule and run Snort in IPS mode to stop the brute-force attack</b>
+
+- <b>Figure out the attack source, service and port</b>
+- <b>Write an IPS rule and run Snort in IPS mode to stop the brute-force attack</b>
 
 
 <h2>Languages and Utilities Used</h2>
