@@ -17,7 +17,7 @@ Write an IPS rule and run Snort in IPS mode to stop the brute-force attack.
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Powershell</b> 
+- <b>Command Line</b> 
 - <b>Snort</b>
 
 <h2>Environments Used </h2>
