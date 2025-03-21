@@ -27,12 +27,14 @@ Write an IPS rule and run Snort in IPS mode to stop the brute-force attack.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuration check: <br/>
+<img width="1440" alt="Screenshot 2025-03-21 at 1 39 20 PM" src="https://github.com/user-attachments/assets/714d26a8-e57b-402a-9515-facfcc108bca" />
+
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Display the TCP/IP output in the console. Logging output in Desktop directory:  <br/>
+<img width="1440" alt="Screenshot 2025-03-21 at 1 48 53 PM" src="https://github.com/user-attachments/assets/1740b66f-5156-4af1-8388-748e30f282ff" />
+
 <br />
 <br />
 Enter the number of passes: <br/>
