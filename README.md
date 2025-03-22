@@ -27,7 +27,7 @@ Last week, they received multiple attacks and decided to work with you to help t
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Configuration check: <br/>
+Configuration check. Ensuring our configuration file is valid.: <br/>
 <img width="1440" alt="Screenshot 2025-03-21 at 1 39 20 PM" src="https://github.com/user-attachments/assets/714d26a8-e57b-402a-9515-facfcc108bca" />
 
 <br />
